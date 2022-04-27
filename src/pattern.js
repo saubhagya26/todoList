@@ -1,5 +1,5 @@
 function pattern(a) {
-    console.log(a);
+    console.log();
 }
 
 pattern(['Hello','World','in','frame']);
